@@ -24,8 +24,8 @@
       <file leaf-file-name="App.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="295" column="26" lean-forward="true" selection-start-line="295" selection-start-column="26" selection-end-line="295" selection-end-column="26" />
+            <state relative-caret-position="471">
+              <caret line="398" column="51" selection-start-line="398" selection-start-column="51" selection-end-line="398" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#2791#2792#0" expanded="true" />
@@ -38,8 +38,8 @@
       <file leaf-file-name="az.key" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/az.key">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="105" selection-start-line="1" selection-start-column="105" selection-end-line="1" selection-end-column="105" />
+            <state relative-caret-position="20281">
+              <caret line="1193" column="65" selection-start-line="1193" selection-start-column="65" selection-end-line="1193" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -62,6 +62,7 @@
       <find>move</find>
       <find>trim</find>
       <find>Morality refers to social</find>
+      <find>that creat</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -99,6 +100,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -111,13 +113,12 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/FPT/SWD/Study/ASS2/SWD391_DMS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
@@ -161,7 +162,7 @@
     </configuration>
     <configuration name="Unnamed" type="JarApplication" factoryName="JAR Application">
       <option name="JAR_PATH" value="$PROJECT_DIR$/tool.jar" />
-      <option name="WORKING_DIRECTORY" value="D:\Tool\New_Tool\tool" />
+      <option name="WORKING_DIRECTORY" value="D:\Tool\Official_Tool\FPT_TOOL\tool" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="ALTERNATIVE_JRE_PATH" value="10" />
     </configuration>
@@ -223,12 +224,14 @@
       <workItem from="1534665097739" duration="2820000" />
       <workItem from="1534693925083" duration="1376000" />
       <workItem from="1534729437643" duration="62000" />
-      <workItem from="1535469191263" duration="866000" />
+      <workItem from="1535469191263" duration="1642000" />
+      <workItem from="1535683757859" duration="975000" />
+      <workItem from="1537410984715" duration="57000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56907000" />
+    <option name="totallyTimeSpent" value="58715000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -236,15 +239,14 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49947917" weight="0.32946146" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.36770833" side_tool="true" visible="true" weight="0.3157339" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.36822918" side_tool="true" visible="true" weight="0.3157339" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6322917" visible="true" weight="0.3157339" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.63177085" weight="0.3157339" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -263,6 +265,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49947917" weight="0.32946146" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -612,15 +615,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/az.key">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="105" selection-start-line="1" selection-start-column="105" selection-end-line="1" selection-end-column="105" />
+        <state relative-caret-position="20281">
+          <caret line="1193" column="65" selection-start-line="1193" selection-start-column="65" selection-end-line="1193" selection-end-column="65" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="295" column="26" lean-forward="true" selection-start-line="295" selection-start-column="26" selection-end-line="295" selection-end-column="26" />
+        <state relative-caret-position="471">
+          <caret line="398" column="51" selection-start-line="398" selection-start-column="51" selection-end-line="398" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#2791#2792#0" expanded="true" />

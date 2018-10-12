@@ -375,6 +375,7 @@ public class App {
         List<String> searchResult = this.fileProc.search(quest);
         int countSave = 0;
         String stringSave = "";
+        String quesSave="";
         for (String s : searchResult) {
             String[] substring = s.split("\\|", 2);
             if (substring.length == 2) {
@@ -384,11 +385,20 @@ public class App {
                 if (longest > countSave) {
                     countSave = longest;
                     stringSave = substring[1];
+                    quesSave = substring[0];
                 }
             }
         }
-        if (!stringSave.isEmpty()) return trimAdvanced(stringSave.replaceAll("  ", " "));
-        return "N/A";
+        this.getResult().getLblQuery().setText(quest);
+        if (!stringSave.isEmpty()) {
+            this.getResult().getLblQ().setText(quesSave);
+            this.getResult().getLblA().setText(stringSave);
+            return trimAdvanced(stringSave.replaceAll("  ", " "));
+        }else{
+            this.getResult().getLblQ().setText("N/A");
+            this.getResult().getLblA().setText("N/A");
+            return "N/A";
+        }
     }
 
     public int longestSameSubstring(String[] a, String[] b) {
